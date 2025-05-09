@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shubh-grb
-- 👀 I’m interested in High Energy Astrophysics on Gamma Ray Bursts
-- 🌱 I’m currently learning the spectral analysis of Gamma Ray Bursts using Fermi GBM data.
+- 👋 Hi, I’m @astro-shubh
+- 👀 I’m interested in High Energy Astrophysics and computation/simulation of astrophysical phenomena.
 - 💞️ I’m looking to connect to people who are in the same field and discuss ideas on how to analyze big data faster and efficiently
 - 📫 You can reach me at shubhmittal23@iisertvm.ac.in
 - 😄 Pronouns: He/him
